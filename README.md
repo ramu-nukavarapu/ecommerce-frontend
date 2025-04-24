@@ -64,7 +64,7 @@ ecommerce-frontend/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ramu-nukavarapu/ecommerce-frontend.git
 cd ecommerce-frontend
 ```
 
